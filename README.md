@@ -118,15 +118,15 @@ Apache Airflow • Python • Azure
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitBarwal-1&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitBarwal-1&theme=github-dark-blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBarwal-1&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -154,7 +154,7 @@ Apache Airflow • Python • Azure
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/rohit-barwal-0ba125260/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/RohitBarwal-1)
 
